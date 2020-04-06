@@ -1,3 +1,1 @@
-- github
-   + https://longjinwen.github.io
-   + https://github.com/8696
+- https://longjinwen.github.io
